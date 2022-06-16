@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/benjaminharuna1/benjaminharuna1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to My GitHub Pages
+**Find Solutions to my assignemnt Questions Below
+You can use the [Solution to Question Two CSS Grid](https://css-grid-assign-zuri.benjaminharuna1.repl.co/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
